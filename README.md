@@ -7,7 +7,7 @@ This is a mobile app for FIRST Robotics Competition (FRC) team 4914 to use for s
 To install the app, follow these steps:
 
 1. Ensure that you have Java version 7 or higher installed on your device. If you do not, you can download it from the [Java website](https://www.java.com/en/download/).
-2. Download the `.jar` file from the [releases page](https://github.com/AndyWang0520/Scouting-App-4914/releases).
+2. Download the `.jar` file from the [releases page](https://github.com/AndyWang0520/Scouting-App-4914/releases). !! GITHUB DOES NOT SUPPORT JAR FILES FILE LOCATED IN (https://github.com/AndyWang0520/Scouting-App-4914)
 3. Launch the app by double-clicking the `.jar` file.
 
 ## User Guide
